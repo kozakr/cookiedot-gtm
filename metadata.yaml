@@ -1,0 +1,5 @@
+homepage: "https://creadot.cz/cookiedot/"
+documentation: "https://creadot.cz/cookiedot/"
+versions:
+  - sha: b9445d4
+    changeNotes: Initial release.
