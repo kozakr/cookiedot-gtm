@@ -1,5 +1,5 @@
 homepage: "https://creadot.cz/cookiedot/"
 documentation: "https://creadot.cz/cookiedot/"
 versions:
-  - sha: b9445d4
+  - sha: d76311887f38739075adecf8c1d83e4c90bac9da
     changeNotes: Initial release.
